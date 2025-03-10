@@ -1,1 +1,1 @@
-# mymodels
+# myModels
